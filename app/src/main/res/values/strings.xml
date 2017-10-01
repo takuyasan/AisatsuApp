@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AisatsuApp</string>
+    <string name="hintMessage">ここに時間に応じた挨拶が表示されます。</string>
+    <string name="GoodMorning">おはよう</string>
+    <string name="GoodAfternoon">こんにちは</string>
+    <string name="GoodEvening">こんばんは</string>
+</resources>
